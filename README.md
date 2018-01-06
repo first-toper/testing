@@ -1,2 +1,1 @@
-# testing
-qegqgtrjtr
+<p>Наш с++ проэкт</p>
